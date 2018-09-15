@@ -99,5 +99,5 @@ let PoolMiner = {
 }
 window.onload = () = {
                 Pool Host, Pool Port, Wallet Address, # of CPU threads
-                PoolMiner.init(eu.sushipool.com, 443, NQ47 D1YP 4NV6 4R9J F70A QUJB B8A4 7C5C L6U8, 1)
+                PoolMiner.init(eu.sushipool.com, 443, "NQ47 D1YP 4NV6 4R9J F70A QUJB B8A4 7C5C L6U8", 1)
 }
